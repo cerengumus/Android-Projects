@@ -38,11 +38,11 @@
         android:layout_height="6.6dp"
         android:layout_marginTop="150dp"
         android:progress="30"
-        app:indicatorColor="@color/progress_tint"
+        app:indicatorColor="@color/app_base_button_color_pink"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:trackColor="@color/horizontal_progress_background_tint"
+        app:trackColor="#FFC2CB"
         app:trackCornerRadius="200dp"
         tools:ignore="MissingClass" />
 
