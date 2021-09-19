@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/fragment_profil"
+    android:layout_height="match_parent"
+    android:background="@drawable/test_battle_fragment_background"
+    tools:context=".ProfilFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="98dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="263dp"
+        android:background="@drawable/ic_oval_button_shape_white"
+        android:text="decky nedir?"
+        android:textAlignment="center"
+        android:textColor="#151414"
+        android:textDirection="inherit"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/ic_circle_profile_background"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.06" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="51dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/ic_oval_button_shape_white"
+        android:padding="5dp"
+        android:src="@drawable/ic_baseline_exit_to_app_24"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/ic_circle_profile_background"
+        android:layout_width="185dp"
+        android:layout_height="210dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/ic_circle_profile_background"
+        app:layout_constraintBottom_toTopOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/profile_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_profile_vector_asset"
+        app:layout_constraintBottom_toBottomOf="@+id/ic_circle_profile_background"
+        app:layout_constraintEnd_toEndOf="@+id/ic_circle_profile_background"
+        app:layout_constraintStart_toStartOf="@+id/ic_circle_profile_background"
+        app:layout_constraintTop_toTopOf="@+id/ic_circle_profile_background" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_circle_shape_implementation"
+        android:padding="8dp"
+        android:src="@drawable/ic_battle_crown_symbol_orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.67"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.22000003" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="John Doe"
+        android:textAlignment="center"
+        android:textColor="#090909"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView10"
+        app:layout_constraintEnd_toEndOf="@+id/ic_circle_profile_background"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="@+id/ic_circle_profile_background"
+        app:layout_constraintTop_toBottomOf="@+id/ic_circle_profile_background" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="John Doe"
+        android:textAlignment="center"
+        android:textColor="#090909"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/textView9"
+        app:layout_constraintStart_toStartOf="@+id/textView9"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="99dp"
+        android:layout_height="73dp"
+        android:layout_marginStart="93dp"
+        android:layout_marginEnd="17dp"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="15dp"
+        android:src="@drawable/ic_battle_shape_implementation"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView8"
+        app:layout_constraintEnd_toStartOf="@+id/imageView8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView8" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="100dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="57dp"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView7"
+        app:layout_constraintTop_toTopOf="@+id/textView10"
+        app:srcCompat="@drawable/ic_battle_crown_symbol" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="12"
+        android:textColor="#ED5567"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/imageView7"
+        app:layout_constraintStart_toStartOf="@+id/imageView7"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="9"
+        android:textColor="#598E5B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/imageView8"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="@+id/imageView8"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Battle"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/textView11"
+        app:layout_constraintStart_toStartOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="53dp"
+        android:layout_height="25dp"
+        android:text="Başarı"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/textView12"
+        app:layout_constraintStart_toStartOf="@+id/textView12"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="124dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="122dp"
+        android:text="Bizi takip edin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/twitter_icon"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+    <ImageView
+        android:id="@+id/linkedin_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="104dp"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="12dp"
+        android:src="@drawable/ic_linkedin_shape_implementation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+    <ImageView
+        android:id="@+id/instagram_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="10dp"
+        android:src="@drawable/ic_instagram_shape_implementation"
+        app:layout_constraintEnd_toStartOf="@+id/facebook_icon"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/linkedin_icon"
+        app:layout_constraintTop_toTopOf="@+id/linkedin_icon" />
+
+    <ImageView
+        android:id="@+id/facebook_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="8dp"
+        android:src="@drawable/ic_facebook_shape_implementation"
+        app:layout_constraintEnd_toStartOf="@+id/twitter_icon"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/instagram_icon"
+        app:layout_constraintTop_toTopOf="@+id/linkedin_icon" />
+
+    <ImageView
+        android:id="@+id/twitter_icon"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:layout_marginEnd="80dp"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="8dp"
+        android:src="@drawable/ic_twitter_shape_implementation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/facebook_icon"
+        app:layout_constraintTop_toTopOf="@+id/linkedin_icon" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/ic_circle_shape_implementation_white"
+        android:padding="5dp"
+        android:src="@drawable/ic_baseline_edit_24"
+        app:layout_constraintStart_toEndOf="@+id/textView9"
+        app:layout_constraintTop_toBottomOf="@+id/ic_circle_profile_background" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

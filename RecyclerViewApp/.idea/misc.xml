@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/bnv_tab_item_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_aa.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.109375" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_gps_fixed_24.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_baseline_stop_24.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_battle_crown_symbol.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_battle_crown_symbol_orange.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_battle_shape_implementation.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_battle_star_symbol.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_big_oval_battle_fragment.xml" value="0.9178571428571428" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_card_background_shape.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_checked.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_choice_shape.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_circle_profile_background.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_circle_shape_implementation.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_circle_shape_implementation_white.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_custom_checkbox.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_custom_unchecked.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_1.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_2.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_3.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_4.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_5.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_6.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_7.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_8.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_drawable_avatar_9.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_facebook_shape_implementation.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_instagram_shape_implementation.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_linkedin_shape_implementation.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_one_player.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_oval_button_shape.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_oval_button_shape_2.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_oval_button_shape_white.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_oval_view.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_player_1.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_profile_vector_asset.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_rectangle.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_right_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_right_arrow_black.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_splash_bottom_logo.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_timer_shape.xml" value="0.109375" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_twitter_shape_implementation.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/ic_unchecked.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/test_activity_screen_background.xml" value="0.109375" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/drawable/test_battle_fragment_background.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/activity_recycler_view.xml" value="0.13632246376811594" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/fragment_home_2.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/fragment_ogrenme.xml" value="0.1" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/fragment_profil.xml" value="0.22" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/layout/item_profile_card_view.xml" value="0.13632246376811594" />
+        <entry key="..\:/Users/crngm/AndroidStudioProjects/RecyclerViewApp/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
