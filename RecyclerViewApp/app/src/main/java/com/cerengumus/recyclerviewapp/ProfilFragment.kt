@@ -1,5 +1,6 @@
 package com.cerengumus.recyclerviewapp
 
+import android.app.AlertDialog
 import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageButton
+import androidx.activity.OnBackPressedCallback
 import androidx.recyclerview.widget.RecyclerView
 
 // TODO: Rename parameter arguments, choose names that match
@@ -47,6 +49,33 @@ class ProfilFragment : Fragment() {
         }
         return v;
     }
+    override fun onResume() {
+        super.onResume()
+
+        // in this block what we're simply doing is that we show a dialog
+        // when the user presses the back button when in this fragment
+
+        val activity = activity as MainActivity
+
+        activity.onBackPressedDispatcher.addCallback(viewLifecycleOwner, object :
+            OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                AlertDialog.Builder(requireContext())
+                    .setTitle("Çıkış")
+                    .setMessage("Çıkmak istediğinize emin misiniz?")
+                    .setCancelable(false)
+                    .setNegativeButton("Evet") { _, _ ->
+                        activity.finish()
+                    }
+                    .setPositiveButton("Hayır") { dialog, _ ->
+                        dialog.dismiss()
+                    }
+                    .show()
+            }
+        })
+
+    }
+
 
     companion object {
         /**

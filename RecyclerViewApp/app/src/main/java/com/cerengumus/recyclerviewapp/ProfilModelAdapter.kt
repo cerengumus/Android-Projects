@@ -8,12 +8,14 @@ import androidx.appcompat.widget.AppCompatCheckBox
 import androidx.recyclerview.widget.RecyclerView
 
 class ProfilModelAdapter(val profilList: MutableList<ProfilModel>) : RecyclerView.Adapter<ProfilModelAdapter.ModelViewHolder>() {
-
+    val selectedItem : Int = -1
     inner class ModelViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val flagImage: ImageView = view.findViewById(R.id.flagImage)
         val checkBox: AppCompatCheckBox = view.findViewById(R.id.check_box)
         fun bindItems(item: ProfilModel) {
             flagImage.setImageResource(item.flagImage)
+            checkBox.setButtonDrawable(item.checkBox)
+
         }
     }
 
